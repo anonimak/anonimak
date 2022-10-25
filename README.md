@@ -8,8 +8,12 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia.
  - 📧 Reach me: twitter.com/jonatan_teofilus
  - 50% logic 🤖✨ and 50% food 🍽️🍚🍔🍕
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonimak&layout=compact&hide=css,html)
-
-![Anonimak's github stats](https://github-readme-stats.vercel.app/api?username=anonimak&count_private=true&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimak&layout=compact&hide=css,html"/></td>
+    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api?username=anonimak&count_private=true&show_icons=true&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 [![@anonimak's Holopin board](https://holopin.me/anonimak)](https://holopin.io/@anonimak)
