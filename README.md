@@ -2,18 +2,19 @@
 
 I'm a Full-Stack Developer working in Jakarta, Indonesia.
 
- - 🧑‍💼 I'm currently working at Finance Company
- - ⚙️ I use daily: .php, .js, .vue, .html, .css
- - 🧠 Learning all about Open Source
- - 📧 Reach me: twitter.com/jonatan_teofilus
+ - I'm currently working at Finance Company
+ - I use daily: .php, .js, .vue, .html, .css
+ - Learning all about Open Source
+ - Reach me: twitter.com/jonatan_teofilus
  - 50% logic 🤖✨ and 50% food 🍽️🍚🍔🍕
+
+
+[![@anonimak's Holopin board](https://holopin.me/anonimak)](https://holopin.io/@anonimak)
 
 <table>
   <tr>
-    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimak&layout=compact&hide=css,html"/></td>
+    <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimak&layout=compact&hide=css,html&theme=tokyonight"/></td>
     <td width="500" align="center"><img src="https://github-readme-stats.vercel.app/api?username=anonimak&count_private=true&show_icons=true&theme=tokyonight"/>
     </td>
   </tr>
 </table>
-
-[![@anonimak's Holopin board](https://holopin.me/anonimak)](https://holopin.io/@anonimak)
