@@ -11,3 +11,5 @@ I'm a Full-Stack Developer working in Jakarta, Indonesia.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonimak&layout=compact&hide=css,html)
 
 ![Anonimak's github stats](https://github-readme-stats.vercel.app/api?username=anonimak&count_private=true&show_icons=true&theme=onedark)
+
+[![@anonimak's Holopin board](https://holopin.me/anonimak)](https://holopin.io/@anonimak)
