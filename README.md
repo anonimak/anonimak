@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer working in Jakarta, Indonesia.
 
  - I'm currently working at Finance Company
- - I use daily: .php, .js, .vue, .html, .css
+ - I use daily: .php, .js, .vue, .html, .css, react-native
  - Learning all about Open Source
  - Reach me: twitter.com/jonatan_teofilus
  - 50% logic 🤖✨ and 50% food 🍽️🍚🍔🍕
